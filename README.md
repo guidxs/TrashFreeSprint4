@@ -1,4 +1,4 @@
-deploy do site: 
+deploy do site: https://thunderous-concha-c2c709.netlify.app
 
 equipe: RM - 99011 Aksel Viktor Caminha Rae 
 
