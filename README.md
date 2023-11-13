@@ -1,7 +1,9 @@
-deploy do site: https://clever-duckanoo-5dce9a.netlify.app
+deploy do site: 
 
 equipe: RM - 99011 Aksel Viktor Caminha Rae 
+
 RM - 99674 Guilherme Doretto Sobreiro
+
 RM - 99629 Samyr Tatoni Kotait
 
 # React + Vite
